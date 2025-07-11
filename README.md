@@ -6,11 +6,11 @@ A simple PHP web application that allows users to submit and store student data 
 
 ## 📸 Preview
 
-### 🛠 XAMPP + Database Setup  
-![Database Setup](db_setup.jpg)
-
 ### 🧾 Web Form Interface (localhost)  
 ![Form Preview](form_preview.jpg)
+
+### 🛠 XAMPP + Database Setup  
+![Database Setup](db_setup.jpg)
 
 ---
 
@@ -45,7 +45,7 @@ This web app is built using PHP, MySQL, and styled with CSS. The user can enter 
 | Column | Type       | Extra          |
 |--------|------------|----------------|
 | id     | INT        | PRIMARY KEY, AUTO_INCREMENT |
-| name   | VARCHAR(100) | – |
+| name   | VARCHAR(50) | – |
 | age    | INT        | – |
 | phone  | VARCHAR(20) | – |
 | email  | VARCHAR(100) | – |
