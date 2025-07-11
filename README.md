@@ -1,9 +1,10 @@
-## Student Data Entry Web 
+# Student Data Entry Web 
 
 ## 📸 Preview
 
 ### 🧾 Web Form Interface (localhost)  
 ![Form Preview](form_preview.jpg)
+
 
 ### 🛠 XAMPP + Database Setup  
 ![Database Setup](db_setup.jpg)
